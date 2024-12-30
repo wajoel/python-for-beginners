@@ -76,5 +76,5 @@ Contributions are welcome! To contribute:
 4. Submit a pull request to the main branch.
 
 ### License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LISENCE).
 
